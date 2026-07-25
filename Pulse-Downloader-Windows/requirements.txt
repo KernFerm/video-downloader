@@ -1,5 +1,5 @@
 requests==2.34.2
 tqdm==4.68.4
 PyQt5==5.15.11
-pyarmor==9.2.5
+pyarmor==9.2.6
 yt-dlp==2026.7.4
